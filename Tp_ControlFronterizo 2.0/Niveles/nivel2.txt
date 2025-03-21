@@ -1,0 +1,6 @@
+Los datos a verificar del Nivel 2 son:
+Nombre y Apellido:
+Duración de la estancia:
+Tipo:
+Nacionalidad: (Solo Argentinos)
+tipo de visita: (No se permiten anarquistas) 

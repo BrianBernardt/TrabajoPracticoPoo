@@ -1,0 +1,10 @@
+release/aldeano.o
+release/controlfronteriso.o
+release/diplomatico.o
+release/main.o
+release/mainwindow.o
+release/nivel.o
+release/persona.o
+release/refugiadopolitico.o
+release/revolucionario.o
+release/moc_mainwindow.o

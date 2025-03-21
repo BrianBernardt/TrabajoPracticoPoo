@@ -1,0 +1,6 @@
+Los datos a verificar del Nivel 1 son:
+Nombre y Apellido:
+Duración de la estancia:
+Tipo no se permite de tipo "V":
+Nacionalidad:
+("V" = Revolucionario):

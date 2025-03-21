@@ -1,0 +1,9 @@
+Los datos a verificar del Nivel 4 son:
+Nombre y Apellido:
+Duración de la estancia:
+Tipo:
+Nacionalidad: (Solo Argentinos)
+tipo de visita: (No se permiten anarquistas)
+Fecha de nacimiento: (Deben ser mayores de 18)
+Visado de tipo "s"; (De lo contrario no se puede ingresar)
+Año actual 2024:

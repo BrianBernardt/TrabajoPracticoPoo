@@ -1,0 +1,2 @@
+Carpeta niveles: Estan todos los niveles del 1 al 4, (chequear la ruta en el juego y sustituirla por la que corresponda)Capeta players: Esta el .dat con los jugadores mismo procedimiento que el de niveles
+La carpeta de guardado se guarda un .dat con los archivos de la partida, (En guardado fijarse la ruta porque también desde la misma carpeta se levanta la partida al cargar una guardada)

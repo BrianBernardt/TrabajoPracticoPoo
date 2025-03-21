@@ -1,0 +1,10 @@
+debug/aldeano.o
+debug/controlfronteriso.o
+debug/diplomatico.o
+debug/main.o
+debug/mainwindow.o
+debug/nivel.o
+debug/persona.o
+debug/refugiadopolitico.o
+debug/revolucionario.o
+debug/moc_mainwindow.o
